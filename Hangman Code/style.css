@@ -1,0 +1,38 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #ffffff;
+}
+#reset{
+  width: 90px;
+  margin: auto;
+}
+.btn-outline-secondary{
+  width: 50px;
+}
+img{
+  width: 100% ;
+  max-width: 500px;
+  height: 50% auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+  position:relative;
+  top: 0;
+  left: 0;
+}
+#guessWord{
+  position: relative;
+  top: 45px;
+}
+
+#letterButtons{
+  position: relative;
+  top: 50px;
+  padding-bottom: 50px;
+}
+.container{
+  padding-top: 80px;
+  padding-bottom: 70px;
+}
